@@ -96,7 +96,7 @@ if __name__ == "__main__" :
         elif 'message' in query:
             speak("What should I say?")
             content = takeCommand()
-            pywhatkit.sendwhatmsg(f"+91{9794533940}",content,14,44)
+            pywhatkit.sendwhatmsg(f"+91{Enter mobile number here}",content,14,44)
 
 
         elif 'exit' in query:
