@@ -39,7 +39,7 @@ class Employee:
         # params = string.split("-")
         # print(params)
         # return cls(params[0], params[1], params[2])
-        return cls(*string.split("-"))
+        return cls(*string.split("-"))           # in on line of code using concept of *args 
 
 
 harry = Employee("Harry", 255, "Instructor")
