@@ -2,7 +2,7 @@
 - BO-XYZ
 
 # Proposed Changes
-- chamge 1
+- change 1
 - chnage 2
 
 # Additional Info
